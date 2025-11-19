@@ -1,0 +1,106 @@
+*
+.homeimage-top-container{
+    padding: 0%;
+    margin: 0%;
+}
+
+.homeimage-top-container img{
+    object-fit: cover;
+    width: 100%;
+
+}
+.first{font-size: 1.7em;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+.para{
+    width: 20em;
+    margin-left: 7em;
+    margin-top: 1em;
+    font-size: 1.6em;
+    font-weight: bold;
+    text-align: left;
+
+}
+.cosmo{display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3em;
+    gap: 0.5em;
+}
+.both{
+    display: flex;
+    
+    align-items: left;
+    margin-left: 10em;
+}
+.single{
+    text-align: left;
+    font-size: 2em;
+    margin-bottom: 0em;
+    margin-left: em;
+}
+.buts{
+    display: flex;
+    gap: 2em;
+    margin-left:23em;
+    margin-top: 5em;
+    margin-bottom: 4em;
+    height: 15em;
+    flex-direction: column;
+
+
+}
+.buts button{
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 0.2em 0.8em;
+    width: 10em;
+    border-radius: 100%;
+    border-color: rgba(0, 0, 0,0);
+    
+
+    background-color: white;
+    
+    
+}
+.buts a{
+    
+    color: white;
+}
+
+.one{
+    display: flex;
+    gap: 4em;
+    margin-top: 1em;
+}
+.last{
+    font-size: 2em;
+    font-weight: bold;
+}
+.fa-brands{
+    font-size: 2em;
+
+}
+.foot{
+    display : flex;
+    margin-left: 10em;
+    margin-right: 10em;
+    justify-content: space-between;
+    margin-bottom: 0em;
+}
+footer{
+    background:rgba(40, 167, 185,0.9) ;
+    padding-bottom: 1em;
+    margin-bottom: 0em;
+}
+.bye{
+    font-size: 1.6em;
+    font-weight: bold;
+    color: white;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 3em;
+    margin-right: 3em;
+}
