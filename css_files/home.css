@@ -6,7 +6,7 @@
 
 .homeimage-top-container img{
     object-fit: cover;
-    width: 100%;
+    width: 110em;
 
 }
 .first{font-size: 1.7em;
@@ -94,6 +94,7 @@ footer{
     background:rgba(40, 167, 185,0.9) ;
     padding-bottom: 1em;
     margin-bottom: 0em;
+    width: 110em;
 }
 .bye{
     font-size: 1.6em;

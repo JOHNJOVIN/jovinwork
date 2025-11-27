@@ -13,6 +13,7 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 0% 0%;
+    width: 110em;
 }
 .fa-solid{gap: 1em;}
 
@@ -48,7 +49,7 @@ a{
 }
 
 .title_searchbar form{
-    margin-left: 20%;
+    margin-left: 2oem;
     align-items: center;
     position: relative;
     display: flex;
@@ -93,7 +94,7 @@ a{
 
 .main_menu{
     height: 35%;
-    width: 100%;
+    width: 110em;
     display: flex;
     padding: 1%;
 }
